@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Niranjan Krishnaswamy. I'm a senior Comp. Eng. student at Ryerson University, expected to graduate in May 2023.
+- 👋 Hi, I'm Niranjan.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/nkrishnaswamy/) DM or through [email](mailto:nkrishnaswamy@ryerson.ca).
 
 <!---
